@@ -26,7 +26,7 @@
             "https://i.postimg.cc/FFcSk3JW/heaven-peace-03.png",
             "https://i.postimg.cc/rFkr1s18/heaven-peace-04.png"
         ],
-        "description": "This is a tourist website. i've made with react firebase and mongoDB",
+        "description": "This is a tourist website. I've made with react firebase and mongoDB",
         "projectLink": "https://heaven-peace.web.app/",
         "clientCode": "https://github.com/DruboSaptapan/Heaven-Peace-client-side",
         "serverCode": "https://github.com/DruboSaptapan/Heaven-Peace-server-side"
