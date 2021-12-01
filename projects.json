@@ -4,7 +4,12 @@
         "id": "a1",
         "name": "Cycle Mart",
         "projectImg": "https://i.postimg.cc/j5CPQh3R/cyclemart-niche.png",
-        "projectPics": ["https://i.postimg.cc/fWf8Dmm7/agency-website-01.png", "https://i.postimg.cc/gkM46pMn/agency-website-02.png", "https://i.postimg.cc/ZKYVRnxG/agency-website-03.png"],
+        "projectPics": [
+            "https://i.postimg.cc/ZqCBbdSL/cyclemart-01.png",
+            "https://i.postimg.cc/ZnrykzSt/cyclemart-02.png",
+            "https://i.postimg.cc/x8rbFTB3/cyclemart-03.png",
+            "https://i.postimg.cc/V6tJMP5r/cyclemart-04.png"
+        ],
         "description": "This is a niche category website. I've made with react, firebase and mongoDB",
         "projectLink": "https://cyclemart-007.web.app/",
         "clientCode": "https://github.com/DruboSaptapan/Cycle-mart-client-side",
@@ -15,7 +20,12 @@
         "id": "b2",
         "name": "Heaven Peace",
         "projectImg": "https://i.postimg.cc/Hj1Mm1YL/heaven-peace-tourist.png",
-        "projectPics": ["https://i.postimg.cc/fWf8Dmm7/agency-website-01.png", "https://i.postimg.cc/gkM46pMn/agency-website-02.png", "https://i.postimg.cc/ZKYVRnxG/agency-website-03.png"],
+        "projectPics": [
+            "https://i.postimg.cc/DzHW8wf3/heaven-peace-01.png",
+            "https://i.postimg.cc/j5n7XJ3j/heaven-peace-02.png",
+            "https://i.postimg.cc/FFcSk3JW/heaven-peace-03.png",
+            "https://i.postimg.cc/rFkr1s18/heaven-peace-04.png"
+        ],
         "description": "This is a tourist website. i've made with react firebase and mongoDB",
         "projectLink": "https://heaven-peace.web.app/",
         "clientCode": "https://github.com/DruboSaptapan/Heaven-Peace-client-side",
@@ -26,7 +36,11 @@
         "id": "c3",
         "name": "Fetoscope health care",
         "projectImg": "https://i.postimg.cc/PxcZ680Y/fetoscope-health-care.png",
-        "projectPics": ["https://i.postimg.cc/fWf8Dmm7/agency-website-01.png", "https://i.postimg.cc/gkM46pMn/agency-website-02.png", "https://i.postimg.cc/ZKYVRnxG/agency-website-03.png"],
+        "projectPics": [
+            "https://i.postimg.cc/PJzN3bWd/fetoscope-health-care-01.png",
+            "https://i.postimg.cc/J7byz89S/fetoscope-health-care-02.png",
+            "https://i.postimg.cc/W19qc7Q3/fetoscope-health-care-03.png"
+        ],
         "description": "This is a health care website. I've made with react and firebase",
         "projectLink": "https://fetoscope-health-care.web.app/",
         "clientCode": "https://github.com/DruboSaptapan/Fetoscope-healthcare-website"
@@ -36,7 +50,12 @@
         "id": "d4",
         "name": "Web developer community",
         "projectImg": "https://i.postimg.cc/sDz2vZKx/web-developer-community.png",
-        "projectPics": ["https://i.postimg.cc/fWf8Dmm7/agency-website-01.png", "https://i.postimg.cc/gkM46pMn/agency-website-02.png", "https://i.postimg.cc/ZKYVRnxG/agency-website-03.png"],
+        "projectPics": [
+            "https://i.postimg.cc/sDz2vZKx/web-developer-community.png",
+            "https://i.postimg.cc/fWf8Dmm7/agency-website-01.png",
+            "https://i.postimg.cc/gkM46pMn/agency-website-02.png",
+            "https://i.postimg.cc/ZKYVRnxG/agency-website-03.png"
+        ],
         "description": "This website helps you to choice web developers.",
         "projectLink": "https://drubo-creating-a-website.netlify.app/",
         "clientCode": "https://github.com/DruboSaptapan/Creative-web-developer-community"
@@ -46,7 +65,12 @@
         "id": "E5",
         "name": "Web developer community",
         "projectImg": "https://i.postimg.cc/PfB2DNNP/oyindamola-portfolio.png",
-        "projectPics": ["https://i.postimg.cc/fWf8Dmm7/agency-website-01.png", "https://i.postimg.cc/gkM46pMn/agency-website-02.png", "https://i.postimg.cc/ZKYVRnxG/agency-website-03.png"],
+        "projectPics": [
+            "https://i.postimg.cc/PfB2DNNP/oyindamola-portfolio.png",
+            "https://i.postimg.cc/fWf8Dmm7/agency-website-01.png",
+            "https://i.postimg.cc/gkM46pMn/agency-website-02.png",
+            "https://i.postimg.cc/ZKYVRnxG/agency-website-03.png"
+        ],
         "description": "This website is dark portfolio.",
         "projectLink": "https://drubosaptapan.github.io/Oyindamola-portfolio/",
         "clientCode": "https://github.com/DruboSaptapan/Oyindamola-portfolio"
@@ -56,7 +80,12 @@
         "id": "f6",
         "name": "Web developer community",
         "projectImg": "https://i.postimg.cc/J0BPsHXc/agency-website.png",
-        "projectPics": ["https://i.postimg.cc/fWf8Dmm7/agency-website-01.png", "https://i.postimg.cc/gkM46pMn/agency-website-02.png", "https://i.postimg.cc/ZKYVRnxG/agency-website-03.png"],
+        "projectPics": [
+            "https://i.postimg.cc/J0BPsHXc/agency-website.png",
+            "https://i.postimg.cc/fWf8Dmm7/agency-website-01.png",
+            "https://i.postimg.cc/gkM46pMn/agency-website-02.png",
+            "https://i.postimg.cc/ZKYVRnxG/agency-website-03.png"
+        ],
         "description": "This website helps you to choice web developers.",
         "projectLink": "https://drubosaptapan.github.io/agency-website/",
         "clientCode": "https://github.com/DruboSaptapan/agency-website"
