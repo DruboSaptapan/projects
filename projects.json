@@ -2,6 +2,37 @@
     {
         "key": "1",
         "id": "a1",
+        "name": "Digital Village (Team Project)",
+        "projectImg": "https://i.postimg.cc/j5CPQh3R/cyclemart-niche.png",
+        "projectPics": [
+            "https://i.postimg.cc/ZqCBbdSL/cyclemart-01.png",
+            "https://i.postimg.cc/ZnrykzSt/cyclemart-02.png",
+            "https://i.postimg.cc/x8rbFTB3/cyclemart-03.png",
+            "https://i.postimg.cc/V6tJMP5r/cyclemart-04.png"
+        ],
+        "description": "This is a niche category website. I've made with react, firebase and mongoDB",
+        "projectLink": "https://digital-village-270e9.web.app/",
+        "clientCode": "https://github.com/kamrul64577/DigitalVillage-Client",
+        "serverCode": "https://github.com/kamrul64577/DigitalVillage-Server"
+    },
+    {
+        "key": "2",
+        "id": "b2",
+        "name": "Green leaf",
+        "projectImg": "https://i.postimg.cc/Wb9R9RC8/green-leaf-1.png",
+        "projectPics": [
+            "https://i.postimg.cc/k4zGR1PF/green-leaf-1.png",
+            "https://i.postimg.cc/Gm6qmrHX/green-leaf-2.png",
+            "https://i.postimg.cc/rsb4c1Jz/green-leaf-3.png"
+        ],
+        "description": "This is a tree planting website. I've made with react, firebase and mongoDB",
+        "projectLink": "https://green-leaf-63665.web.app/",
+        "clientCode": "https://github.com/DruboSaptapan/green-leaf-client-side",
+        "serverCode": "https://github.com/DruboSaptapan/green-leaf-server-side"
+    },
+    {
+        "key": "3",
+        "id": "c3",
         "name": "Cycle Mart",
         "projectImg": "https://i.postimg.cc/j5CPQh3R/cyclemart-niche.png",
         "projectPics": [
@@ -16,8 +47,8 @@
         "serverCode": "https://github.com/DruboSaptapan/Cycle-mart-server-side"
     },
     {
-        "key": "2",
-        "id": "b2",
+        "key": "4",
+        "id": "d4",
         "name": "Heaven Peace",
         "projectImg": "https://i.postimg.cc/Hj1Mm1YL/heaven-peace-tourist.png",
         "projectPics": [
@@ -32,8 +63,8 @@
         "serverCode": "https://github.com/DruboSaptapan/Heaven-Peace-server-side"
     },
     {
-        "key": "3",
-        "id": "c3",
+        "key": "5",
+        "id": "e5",
         "name": "Fetoscope health care",
         "projectImg": "https://i.postimg.cc/PxcZ680Y/fetoscope-health-care.png",
         "projectPics": [
@@ -46,8 +77,8 @@
         "clientCode": "https://github.com/DruboSaptapan/Fetoscope-healthcare-website"
     },
     {
-        "key": "4",
-        "id": "d4",
+        "key": "6",
+        "id": "f6",
         "name": "Web developer community",
         "projectImg": "https://i.postimg.cc/sDz2vZKx/web-developer-community.png",
         "projectPics": [
@@ -59,35 +90,5 @@
         "description": "This website helps you to choice web developers.",
         "projectLink": "https://drubo-creating-a-website.netlify.app/",
         "clientCode": "https://github.com/DruboSaptapan/Creative-web-developer-community"
-    },
-    {
-        "key": "5",
-        "id": "E5",
-        "name": "Web developer community",
-        "projectImg": "https://i.postimg.cc/PfB2DNNP/oyindamola-portfolio.png",
-        "projectPics": [
-            "https://i.postimg.cc/PfB2DNNP/oyindamola-portfolio.png",
-            "https://i.postimg.cc/fWf8Dmm7/agency-website-01.png",
-            "https://i.postimg.cc/gkM46pMn/agency-website-02.png",
-            "https://i.postimg.cc/ZKYVRnxG/agency-website-03.png"
-        ],
-        "description": "This website is dark portfolio.",
-        "projectLink": "https://drubosaptapan.github.io/Oyindamola-portfolio/",
-        "clientCode": "https://github.com/DruboSaptapan/Oyindamola-portfolio"
-    },
-    {
-        "key": "6",
-        "id": "f6",
-        "name": "Web developer community",
-        "projectImg": "https://i.postimg.cc/J0BPsHXc/agency-website.png",
-        "projectPics": [
-            "https://i.postimg.cc/J0BPsHXc/agency-website.png",
-            "https://i.postimg.cc/fWf8Dmm7/agency-website-01.png",
-            "https://i.postimg.cc/gkM46pMn/agency-website-02.png",
-            "https://i.postimg.cc/ZKYVRnxG/agency-website-03.png"
-        ],
-        "description": "This website helps you to choice web developers.",
-        "projectLink": "https://drubosaptapan.github.io/agency-website/",
-        "clientCode": "https://github.com/DruboSaptapan/agency-website"
     }
 ]
